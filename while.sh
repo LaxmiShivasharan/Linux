@@ -1,3 +1,4 @@
+echo "Print number using while loop"
 i=0
 while   [ $i -lt 5 ] 
 do 

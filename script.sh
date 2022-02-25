@@ -6,3 +6,4 @@ do
 	echo "Hello world "
 done
 echo %WORKSPACE%
+echo "hello `git branch ` from git"

@@ -3,5 +3,5 @@
 echo "print Hello world 10 times"
 for  i in {1..10}
 do
-	echo "Hello world"
+	echo "Hello world "
 done
